@@ -1,3 +1,4 @@
+<!-- 初始代码和练习时使用
 <template>
   <div id="app">
     <div id="nav">
@@ -33,5 +34,20 @@
   color: #2c3e50;
   background: #42b983;
 }
+
+</style>
+-->
+<!--以下为实例代码-->
+<template>
+  <div id="app">
+    <ul class="footer-bar">
+      <li>首页</li>
+      <li>分类</li>
+      <li>购物车</li>
+      <li>我的</li>
+    </ul>
+  </div>
+</template>
+<style lang="scss">
 
 </style>
