@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
+    <div class="box">box</div>
   </div>
 </template>
 
@@ -26,4 +27,11 @@
     }
   }
 }
+.box {//.box可以适配background属性，而#box不能
+  width: 100%;
+  height: 100%;
+  color: #2c3e50;
+  background: #42b983;
+}
+
 </style>
