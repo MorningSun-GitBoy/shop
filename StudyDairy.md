@@ -1,14 +1,14 @@
 # StudyDairy
-### Ìâ¼Ç
-ÖØ½¨ÏîÄ¿ºóÖÕÓÚÕÒµ½ÁËÎÊÌâ£¬ÎÒ´íÎóµÄÊ¹ÓÃÁËnode-sassµÄÅäÖÃ£¬²»¹ıºÃÔÚ±¾ÅäÖÃÒÑ¾­±£´æ¡£×Ô´Ë£¬ÎÒ»á½«±¾ÎÄ¼ş×÷Îª¿ª·¢
-ÎÄµµ£¬¼ÇÂ¼Ñ§Ï°ÖĞµÄÀ§»óÓëÎÊÌâ¡£
+### é¢˜è®°
+é‡å»ºé¡¹ç›®åç»ˆäºæ‰¾åˆ°äº†é—®é¢˜ï¼Œæˆ‘é”™è¯¯çš„ä½¿ç”¨äº†node-sassçš„é…ç½®ï¼Œä¸è¿‡å¥½åœ¨æœ¬é…ç½®å·²ç»ä¿å­˜ã€‚è‡ªæ­¤ï¼Œæˆ‘ä¼šå°†æœ¬æ–‡ä»¶ä½œä¸ºå¼€å‘
+æ–‡æ¡£ï¼Œè®°å½•å­¦ä¹ ä¸­çš„å›°æƒ‘ä¸é—®é¢˜ã€‚
 
 After rebuilding project, I finaly found my fault that I shouldn't use node-sass as config. The 
 better notice is that I save the right config. From now on I will use this file as a developing
 document, to log the puzzles and notes.
-### ÈÕ¼ÇÖ÷Ìâ
+### æ—¥è®°ä¸»é¢˜
 2019.2.17
-ÖÁ½ñ£¬ÎÒÖÕÓÚÅªÃ÷°×ÁËÎÒÖ®Ç°ĞÂ½¨°æ±¾ÎªºÎÓë½ÌÑ§Ä£°å²»Ò»ÖÂ¡£ÎÒÅª´íÁËÅäÖÃ¡£Ö®ºóÓ¦¸Ã²»»á×ßÍäÂ·ÁË¡£
+è‡³ä»Šï¼Œæˆ‘ç»ˆäºå¼„æ˜ç™½äº†æˆ‘ä¹‹å‰æ–°å»ºç‰ˆæœ¬ä¸ºä½•ä¸æ•™å­¦æ¨¡æ¿ä¸ä¸€è‡´ã€‚æˆ‘å¼„é”™äº†é…ç½®ã€‚ä¹‹ååº”è¯¥ä¸ä¼šèµ°å¼¯è·¯äº†ã€‚
 ### English dairy
 2019.2.17
 Until now ,I finaly understood the reason why my new-built code was not same as the teaching one.
