@@ -49,5 +49,14 @@
   </div>
 </template>
 <style lang="scss">
-
+.footer-bar{
+  display: flex;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  &-item{
+    flex-grow:unset;
+    text-align: center;
+  }
+}
 </style>
