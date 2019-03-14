@@ -13,6 +13,8 @@ document, to log the puzzles and notes.
 我将vscode的全局编码格式改为了utf-8，于是又引发了一些冲突。重温了vue框架的第一节课，知道了项目的基本框架，
 "assets"中应存放非vue资源。了解了vue中的注释方式以及一些细节问题。将npm的操作记录了下来，并写在了"README"
 中，我打算将其作为笔记。
+2019.3.14
+出了些问题，同样的代码没有产生同样的效果，我需要上网查查。
 ### English dairy
 2019.2.17
 Until now ,I finaly understood the reason why my new-built code was not same as the teaching one.
@@ -22,3 +24,6 @@ I changed the default encoding to "utf-8",so some conflict happened.Review the f
 frame,and understand the basic frame,such as putting the other assets in "assets".Begain to know the
 annotations ways and some detailed points.I took some notes about the operations of npm,and write it
 in "README".
+2019.3.14
+There are some puzzeled problem that the same code did not mean the same result.I think I need to search
+it in web.
