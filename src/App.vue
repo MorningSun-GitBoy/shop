@@ -41,22 +41,22 @@
 <template>
   <div id="app">
     <ul class="footer-bar">
-      <li>首页</li>
-      <li>分类</li>
-      <li>购物车</li>
-      <li>我的</li>
+      <li class="footer-bar-item">首页</li>
+      <li class="footer-bar-item">分类</li>
+      <li class="footer-bar-item">购物车</li>
+      <li class="footer-bar-item">我的</li>
     </ul>
   </div>
 </template>
 <style lang="scss">
-.footer-bar{
+.footer-bar{//设置类样式
   display: flex;
   position: fixed;
-  bottom: 0%;
+  bottom: 0;
   width: 100%;
   &-item{
-    flex-grow:unset;
+    flex-grow: 1;
     text-align: center;
-  }
+  }//设置类中子类
 }
 </style>

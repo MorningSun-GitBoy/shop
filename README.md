@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-在项目没有“node_modules”的情况下，重新安装所有依�?
+在项目没有“node_modules”的情况下，重新安装所有依赖
 At the condition of no "node_modules",reinstall all the dependence.
 ### Compiles and hot-reloads for development
 ```

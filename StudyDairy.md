@@ -27,3 +27,5 @@ in "README".
 2019.3.14
 There are some puzzeled problem that the same code did not mean the same result.I think I need to search
 it in web.
+2019.7.11
+All puzzeled problem is caused by my carless.
