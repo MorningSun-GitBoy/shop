@@ -12,4 +12,16 @@ npm run serve
 * 在开发过程中，开启Damo
 * In developing process,run damo
 # vue框架结构
-
+```
+node_modules: vue文件支持包，相当于环境
+public: 
+src: 项目源代码
+  assets: 各种资源
+  components: 
+  views: 存放单独页面的vue文件
+  主页vue文件
+  各种js文件
+.gitnore: git的忽略文件
+各种配置文件
+```
+### vue文件标签

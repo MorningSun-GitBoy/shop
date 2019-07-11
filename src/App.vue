@@ -54,6 +54,8 @@
   position: fixed;
   bottom: 0;
   width: 100%;
+  height: 1rem;
+  line-height: 1rem;
   &-item{
     flex-grow: 1;
     text-align: center;
