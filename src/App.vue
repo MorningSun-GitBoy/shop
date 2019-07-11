@@ -38,7 +38,7 @@
 </style>
 -->
 <!--以下为实例代码-->
-<template>
+<template><!--html5提供的列表渲染标签，列表将统一放置在这里-->
   <div id="app">
     <ul class="footer-bar">
       <li class="footer-bar-item">首页</li>
