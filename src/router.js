@@ -15,7 +15,7 @@ export default new Router({
       component: Home
     },
     {
-      path: '/Profile',
+      path: '/profile',
       name: 'profile',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
@@ -23,12 +23,12 @@ export default new Router({
       component: Profil
     },
     {
-      path: '/Catlog',
+      path: '/catlog',
       name: 'catlog',
       component: Catlog
     },
     {
-      path: '/Chart',
+      path: '/chart',
       name: 'chart',
       component: Chart
     }
