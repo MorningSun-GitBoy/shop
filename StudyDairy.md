@@ -17,6 +17,8 @@ document, to log the puzzles and notes.
 出了些问题，同样的代码没有产生同样的效果，我需要上网查查。
 2019.7.11
 所有疑问都是由于我的粗心。我决定建立NOTE.md记录语法笔记。
+2019.7.12
+tab的切换出现了问题
 ### English dairy
 2019.2.17
 Until now ,I finaly understood the reason why my new-built code was not same as the teaching one.
